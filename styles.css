@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+.ui {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+  
+
+}
+.change-button{
+  background: blue;
+  border: aliceblue 1px solid;
+  color: white;
+  border: none;
+  font-size: 1em;
+  font-weight: 500;  padding: 10px;
+}
+
+.text{
+  font-size: 1.4em;
+  color: white;
+  padding: 8px;
+  background-color: #44444499;
+  margin-left: 10px;
+}
